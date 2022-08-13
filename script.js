@@ -18,7 +18,7 @@
 //   console.log(byeSpeaker + " " + name);
 //   window.byeSpeaker = byeSpeaker
 
-// }
+
 
 //  var firstLetter = names[i].charAt(0).toLowerCase();
 
