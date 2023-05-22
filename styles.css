@@ -651,7 +651,7 @@ hr{
 /* Pricing */
 .headline{
     height: 700px;
-    background: url(images/ceiling.jpeg);
+    background: url(ceiling.jpeg);
     box-shadow: 200px 200px 400px 200px rgba(0,0,0,0.69) inset;
     -webkit-box-shadow: 200px 200px 400px 200px rgba(0,0,0,0.69) inset;
     background-repeat: no-repeat;
